@@ -1,0 +1,114 @@
+*{padding: 0; margin: 0;}
+.header{
+    width: 810px;
+    height: 535px;
+    box-shadow: 0px 1px 7px 0px #000;
+    margin: 38px auto;
+}
+.header .diyi{
+    height: 34px;
+    background: #22cb64;
+    overflow: hidden;
+}
+.header .diyi .jjx{
+    margin-top: 8px;
+    margin-left: 15px;
+    float: left;
+}
+.header .diyi img{
+    border-radius: 5px;
+    float: left;
+    margin-right: 10px;
+}
+.header .diyi p{
+    float: left;
+    color: #fff;
+    font-size: 15px;
+    line-height: 18px;
+}
+.header .diyi .tp{
+    float: right;
+}
+.header .dier{
+    overflow: hidden;
+    height: 120px;
+    background: #f5fefb;
+}
+.header .dier img{
+    float: left;
+    margin-top: 19px;
+    margin-left: 53px;
+    margin-right: 29px;
+}
+.header .dier P{
+    color: #595959;
+}
+.header .dier .zi{
+    width: 411px;
+    float: left;
+    margin-top: 40px;
+}
+.header .dier .k{
+    float: right;
+    width: 116px;
+    height: 36px;
+    background: #31d16c;
+    border-radius: 20px;
+    margin-top: 45px;
+    margin-right: 40px;
+    text-align: center;
+}
+.header .dier .k a{
+    line-height: 36px;
+    color: #fff;
+    text-decoration: none;
+}
+.header .disan{
+    width: 658px;
+    height: 382px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.header .disan .zuo{
+    margin-top: 29px;
+    width: 130px;
+    height: 382px;
+}
+.header .disan .zuo .zuo-i{
+    height: 24px;
+    width: 130px;
+    margin-bottom: 16px;
+}
+.header .disan .zuo .zuo-i img{
+    float: left;
+    border-radius: 50px;
+    margin-right: 25px;
+}
+.header .disan .zuo .zuo-i P{
+    color: #898989;
+    font-size: 13px;
+    float: left;
+    line-height: 26px;
+}
+.header .disan .zhong{
+    margin-top: 29px;
+    width: 343px;
+    height: 382px;
+}
+.header .disan .zhong p{
+    line-height: 26px;
+    color: #ababab;
+    font-size: 13px;
+    margin-bottom: 14px;
+}
+.header .disan .you{
+    width: 46px;
+    height: 382px;
+}
+.header .disan .you p{
+    font-size: 13px;
+    line-height: 12px;
+    color: #595959;
+    margin-top: 29px;
+}
